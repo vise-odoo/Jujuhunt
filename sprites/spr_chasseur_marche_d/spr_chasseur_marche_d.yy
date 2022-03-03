@@ -1,0 +1,158 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 269,
+  "bbox_top": 12,
+  "bbox_bottom": 709,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 271,
+  "height": 710,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"eb290d2e-ed9b-4f41-a5d8-143fc11e6919","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eb290d2e-ed9b-4f41-a5d8-143fc11e6919","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"eb290d2e-ed9b-4f41-a5d8-143fc11e6919","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9b845456-5276-492f-a7ec-4abae7742fb5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9b845456-5276-492f-a7ec-4abae7742fb5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"9b845456-5276-492f-a7ec-4abae7742fb5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1c639c63-45a1-4f2c-bead-05d69e52a6df","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1c639c63-45a1-4f2c-bead-05d69e52a6df","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"1c639c63-45a1-4f2c-bead-05d69e52a6df","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6a4966bc-ec15-4b80-b7b9-e47fcf661f01","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6a4966bc-ec15-4b80-b7b9-e47fcf661f01","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"6a4966bc-ec15-4b80-b7b9-e47fcf661f01","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"afc24b11-d152-43a3-8114-4952f89e8240","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"afc24b11-d152-43a3-8114-4952f89e8240","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"afc24b11-d152-43a3-8114-4952f89e8240","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7871648d-c438-4ff6-b9d3-31cc7977e6c3","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7871648d-c438-4ff6-b9d3-31cc7977e6c3","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"7871648d-c438-4ff6-b9d3-31cc7977e6c3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a0c08382-5531-442e-9fba-b31109d4c75c","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a0c08382-5531-442e-9fba-b31109d4c75c","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"a0c08382-5531-442e-9fba-b31109d4c75c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"bd4b4d76-ad53-4de6-a0c6-02df8e16c4bc","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"bd4b4d76-ad53-4de6-a0c6-02df8e16c4bc","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"bd4b4d76-ad53-4de6-a0c6-02df8e16c4bc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"20264c09-1f81-42ae-8578-b350676d56fe","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"20264c09-1f81-42ae-8578-b350676d56fe","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"20264c09-1f81-42ae-8578-b350676d56fe","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f4b5fecc-69c7-4054-8e28-a7adaee111e3","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f4b5fecc-69c7-4054-8e28-a7adaee111e3","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"f4b5fecc-69c7-4054-8e28-a7adaee111e3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6720f012-a1f8-467a-be1c-0cde06d6f4c5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6720f012-a1f8-467a-be1c-0cde06d6f4c5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"6720f012-a1f8-467a-be1c-0cde06d6f4c5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"470b3ab8-92a7-4cfc-9f29-dc1f20192371","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"470b3ab8-92a7-4cfc-9f29-dc1f20192371","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"470b3ab8-92a7-4cfc-9f29-dc1f20192371","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"85a48e10-6c33-4c12-893e-4b9cfc6d2eab","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"85a48e10-6c33-4c12-893e-4b9cfc6d2eab","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"85a48e10-6c33-4c12-893e-4b9cfc6d2eab","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"eaac53e9-beba-4fe4-9f8b-ce69164a33d2","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"eaac53e9-beba-4fe4-9f8b-ce69164a33d2","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"eaac53e9-beba-4fe4-9f8b-ce69164a33d2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"144506a6-1788-4017-9d7b-adb4657c5657","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"144506a6-1788-4017-9d7b-adb4657c5657","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"144506a6-1788-4017-9d7b-adb4657c5657","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"753e0407-e2e6-4a2d-bae0-ca0cdcf8583c","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"753e0407-e2e6-4a2d-bae0-ca0cdcf8583c","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"753e0407-e2e6-4a2d-bae0-ca0cdcf8583c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b2b03b80-2d71-407f-9b83-82de1ea67f86","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b2b03b80-2d71-407f-9b83-82de1ea67f86","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"b2b03b80-2d71-407f-9b83-82de1ea67f86","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e6d4fe54-9df3-47aa-8928-3127367a70e5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e6d4fe54-9df3-47aa-8928-3127367a70e5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"e6d4fe54-9df3-47aa-8928-3127367a70e5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"54155257-e6f5-4cd3-a8f0-3e033b8b6ddc","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"54155257-e6f5-4cd3-a8f0-3e033b8b6ddc","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"54155257-e6f5-4cd3-a8f0-3e033b8b6ddc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7bab8cde-074e-454b-888b-efdfc1e179f5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7bab8cde-074e-454b-888b-efdfc1e179f5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"7bab8cde-074e-454b-888b-efdfc1e179f5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"afd3806f-84f0-47bc-aa91-73351254fd99","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"afd3806f-84f0-47bc-aa91-73351254fd99","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"LayerId":{"name":"216779b1-5814-4090-924c-d18f8da23e34","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","name":"afd3806f-84f0-47bc-aa91-73351254fd99","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 30.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 21.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"c51d67bb-5a1d-4ed1-bf30-d65ad737f4f1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eb290d2e-ed9b-4f41-a5d8-143fc11e6919","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"49994770-bda7-41f5-8b91-4d0594644b98","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b845456-5276-492f-a7ec-4abae7742fb5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"eca0f58e-a02f-4737-bbd2-e90f0b7af5a2","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1c639c63-45a1-4f2c-bead-05d69e52a6df","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"24aa6b74-e0e2-405e-abea-bc7662b4483b","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6a4966bc-ec15-4b80-b7b9-e47fcf661f01","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ce836c7d-12ac-4676-bf2e-6736d4bd5af0","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"afc24b11-d152-43a3-8114-4952f89e8240","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"61aefd6d-ca19-4316-a055-dfd7b95ddf16","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7871648d-c438-4ff6-b9d3-31cc7977e6c3","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"74bd8215-dc2a-4c49-a0b1-b7f593685a20","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a0c08382-5531-442e-9fba-b31109d4c75c","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d7bb6ef5-4324-4532-b61a-33d2361fec29","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"bd4b4d76-ad53-4de6-a0c6-02df8e16c4bc","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"73588e8b-f797-428d-a9b7-221d86f15b2f","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"20264c09-1f81-42ae-8578-b350676d56fe","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c2d0cf37-8e5a-4a59-adc8-250bd75c18dc","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f4b5fecc-69c7-4054-8e28-a7adaee111e3","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bcacfc4e-fd99-472a-aba0-221fcdb99adf","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6720f012-a1f8-467a-be1c-0cde06d6f4c5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"60029dbb-5360-4901-821d-61a814bd0be2","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"470b3ab8-92a7-4cfc-9f29-dc1f20192371","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"eb876f43-944e-4b9a-93ef-1cd4f8bd1c62","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"85a48e10-6c33-4c12-893e-4b9cfc6d2eab","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0b58131c-fd7d-4463-87ea-b1668101f480","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"eaac53e9-beba-4fe4-9f8b-ce69164a33d2","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"11aa876f-90f1-4ecb-afb9-0e4c8d7f05d8","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"144506a6-1788-4017-9d7b-adb4657c5657","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2d903913-cb39-4ae1-a5a6-7350a24379df","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"753e0407-e2e6-4a2d-bae0-ca0cdcf8583c","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3fe7b541-a98b-41a4-9e98-0a572fc44eb3","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b2b03b80-2d71-407f-9b83-82de1ea67f86","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ecc9bc4c-58d3-4497-9dd1-d75d776ab4e8","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e6d4fe54-9df3-47aa-8928-3127367a70e5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4d96f73d-2fbd-4821-987e-597a8fdab22f","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"54155257-e6f5-4cd3-a8f0-3e033b8b6ddc","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"084684f1-1230-4204-9ec5-2b66e5a27c4a","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7bab8cde-074e-454b-888b-efdfc1e179f5","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"961ba2a4-7935-473c-b186-ddbe5b969782","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"afd3806f-84f0-47bc-aa91-73351254fd99","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 135,
+    "yorigin": 355,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_chasseur_marche_d","path":"sprites/spr_chasseur_marche_d/spr_chasseur_marche_d.yy",},
+    "resourceVersion": "1.3",
+    "name": "spr_chasseur_marche_d",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"216779b1-5814-4090-924c-d18f8da23e34","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "parent": {
+    "name": "chasseur",
+    "path": "folders/Sprites/chasseur.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_chasseur_marche_d",
+  "tags": [],
+  "resourceType": "GMSprite",
+}
